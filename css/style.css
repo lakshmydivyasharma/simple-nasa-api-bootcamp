@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 10px;
+}
+
+body{
+text-align: center;
+background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif");
+background-repeat: no-repeat;
+background-size: cover;
+color: #ffffff;
+font-family: 'Fredoka One', cursive;
+}
+
+input{
+  text-align: center;
+}
